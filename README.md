@@ -26,7 +26,33 @@
         • VGG-19
         • ResNet
         • MobileNet
+        
+# 2. Dog Breed Classification
 
+## Objective:
 
+    •  Given a set of different dog breed images, build an image classifier to determine the breed of a dog in the image.
 
+## Context:
+
+    • Image Classification problem, which is the task of assigning an input image one label from a fixed set of categories. This is one of the core problems in 
+      Computer Vision that, despite its simplicity, has a large variety of practical applications. Moreover, as we will see later in the course, many other 
+      seemingly distinct Computer Vision tasks (such as object detection, segmentation) can be reduced to image classification.
+
+## Data Description:
+
+https://www.kaggle.com/c/dog-breed-identification/data
+
+## Context :
+    • Provided with a training set and a test set of images of dogs. 
+    • Each image has a filename that is its unique id. The dataset comprises 120 breeds of dogs. 
+    • The goal of the competition is to create a classifier capable of determining a dog's breed from a photo.
+## Concepts Tested :
+    • Dataset Preparation & Visualization
+    • CNN models
+    • Implementing Callbacks
+    • Deal with Overfitting
+    • Transfer Learning
+    • VGG-19
+    • Xception
         
