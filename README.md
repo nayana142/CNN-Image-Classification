@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1clZX-lV_MLxKHSyeyTheX5OCQtNCUcqT/view?usp=shari
       seemingly distinct Computer Vision tasks (such as object detection, segmentation) can be reduced to image classification.
 
 ## Dataset:
-https://www.kaggle.com/c/dog-breed-identification/data
+https://www.kaggle.com/datasets/miljan/stanford-dogs-dataset-traintest
 
 ## Context :
     • Provided with a training set and a test set of images of dogs. 
