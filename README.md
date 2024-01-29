@@ -8,8 +8,8 @@
         
         • Ninjacart provides a dataset comprising images of onions, potatoes, tomatoes, and market scenes. Our task involves creating a multiclass classifier to identify these vegetables, utilizing the provided 
         dataset with necessary images for the classification task.
-## Dataset Link :
-     https://drive.google.com/file/d/1clZX-lV_MLxKHSyeyTheX5OCQtNCUcqT/view?usp=sharing
+## Dataset :
+https://drive.google.com/file/d/1clZX-lV_MLxKHSyeyTheX5OCQtNCUcqT/view?usp=sharing
 ## Context :
         • This dataset contains images of the following food items: 
                • Noise-Indian market
@@ -39,8 +39,7 @@
       Computer Vision that, despite its simplicity, has a large variety of practical applications. Moreover, as we will see later in the course, many other 
       seemingly distinct Computer Vision tasks (such as object detection, segmentation) can be reduced to image classification.
 
-## Data Description:
-
+## Dataset:
 https://www.kaggle.com/c/dog-breed-identification/data
 
 ## Context :
