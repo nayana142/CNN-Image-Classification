@@ -1,6 +1,7 @@
 # Deep-Learning-CNN
 
 # 1. Ninjacart
+![image](https://github.com/nayana142/CNN-Image-Classification/assets/120770261/4399c6e2-082a-46e0-bf4b-1e7b1ed63018)
 
 ## Problem Statement :
         • Ninjacart, India's major fresh produce supply chain company, addresses global supply chain challenges using innovative technology, efficiently delivering fresh produce from farmers to businesses within 
@@ -28,6 +29,7 @@ https://drive.google.com/file/d/1clZX-lV_MLxKHSyeyTheX5OCQtNCUcqT/view?usp=shari
         • MobileNet
         
 # 2. Dog Breed Classification
+![image](https://github.com/nayana142/CNN-Image-Classification/assets/120770261/c30e30a8-4db2-4692-ae1c-c31e5c8589d3)
 
 ## Objective:
 
